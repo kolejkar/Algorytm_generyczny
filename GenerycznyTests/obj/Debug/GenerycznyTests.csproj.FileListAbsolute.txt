@@ -1,0 +1,12 @@
+D:\source\repos\Generyczny\GenerycznyTests\bin\Debug\GenerycznyTests.dll
+D:\source\repos\Generyczny\GenerycznyTests\bin\Debug\GenerycznyTests.pdb
+D:\source\repos\Generyczny\GenerycznyTests\bin\Debug\Generyczny.exe
+D:\source\repos\Generyczny\GenerycznyTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\source\repos\Generyczny\GenerycznyTests\bin\Debug\Generyczny.pdb
+D:\source\repos\Generyczny\GenerycznyTests\bin\Debug\Generyczny.exe.config
+D:\source\repos\Generyczny\GenerycznyTests\bin\Debug\pl\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\source\repos\Generyczny\GenerycznyTests\obj\Debug\GenerycznyTests.csprojAssemblyReference.cache
+D:\source\repos\Generyczny\GenerycznyTests\obj\Debug\GenerycznyTests.csproj.CoreCompileInputs.cache
+D:\source\repos\Generyczny\GenerycznyTests\obj\Debug\GenerycznyTests.csproj.CopyComplete
+D:\source\repos\Generyczny\GenerycznyTests\obj\Debug\GenerycznyTests.dll
+D:\source\repos\Generyczny\GenerycznyTests\obj\Debug\GenerycznyTests.pdb

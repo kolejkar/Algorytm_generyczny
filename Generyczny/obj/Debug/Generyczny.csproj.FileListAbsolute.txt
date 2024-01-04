@@ -1,0 +1,10 @@
+D:\source\repos\Generyczny\Generyczny\bin\Debug\Generyczny.exe.config
+D:\source\repos\Generyczny\Generyczny\bin\Debug\Generyczny.exe
+D:\source\repos\Generyczny\Generyczny\bin\Debug\Generyczny.pdb
+D:\source\repos\Generyczny\Generyczny\obj\Debug\Generyczny.Form1.resources
+D:\source\repos\Generyczny\Generyczny\obj\Debug\Generyczny.Properties.Resources.resources
+D:\source\repos\Generyczny\Generyczny\obj\Debug\Generyczny.csproj.GenerateResource.cache
+D:\source\repos\Generyczny\Generyczny\obj\Debug\Generyczny.csproj.CoreCompileInputs.cache
+D:\source\repos\Generyczny\Generyczny\obj\Debug\Generyczny.exe
+D:\source\repos\Generyczny\Generyczny\obj\Debug\Generyczny.pdb
+D:\source\repos\Generyczny\Generyczny\obj\Debug\Generyczny.csprojAssemblyReference.cache
